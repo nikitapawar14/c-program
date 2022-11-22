@@ -10,3 +10,9 @@ fact=fact*1;
 }
 printf("\n fact=%d",fact);
 }
+void sub()
+{
+int a,b;
+printf("\n enter two no");
+scanf("%d%d",&a,&b);
+}
